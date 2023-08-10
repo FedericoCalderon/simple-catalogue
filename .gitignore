@@ -13,6 +13,7 @@ node_modules/
 # Cache directories
 .cache/
 .tmp/
+.angular
 
 # Generated files
 *.class
