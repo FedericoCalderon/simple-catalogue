@@ -1,0 +1,15 @@
+.toolbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.badge {
+  background-color: red;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 50%;
+  font-size: 12px;
+  position: relative;
+}
+  
